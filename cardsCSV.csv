@@ -1,0 +1,6 @@
+type,face,back,name,description,gm_notes,tags
+Card,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Zombie.png,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png,Zombie,,2 ATK 2 DEF,"Overworld, Undead"
+Card,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Creeper.png,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png,Creeper,On death: Deal 3 damage to an enemy,2 ATK 1 DEF,Overworld
+Card,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Spider.png,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png,Spider,,3 ATK 1 DEF,Overworld
+Card,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Skeleton.png,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png,Skeleton,Summon: Deal 1 damage to an enemy,2 ATK 2 DEF Target,"Overworld, Undead"
+Card,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Enderman.png,https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png,Enderman,,5 ATK 4 DEF,Overworld

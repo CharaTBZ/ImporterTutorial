@@ -1,0 +1,58 @@
+{
+  "Card":
+  {
+    "1": {
+      "name": "Creeper",
+      "description": "",
+      "gm_notes": "",
+      "tags": {
+        "1": "Overworld"
+      },
+      "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Creeper.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+    },
+    "2": {
+      "name": "Zombie",
+      "description": "",
+      "gm_notes": "",
+      "tags": {
+        "1": "Overworld",
+        "2": "Undead"
+      },
+      "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Zombie.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+    },
+	"3": {
+      "name": "Spider",
+      "description": "",
+      "gm_notes": "",
+      "tags": {
+        "1": "Overworld"
+      },
+      "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Spider.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+    },
+	"4": {
+      "name": "Skeleton",
+      "description": "",
+      "gm_notes": "",
+      "tags": {
+        "1": "Overworld",
+        "2": "Undead"
+      },
+      "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Skeleton.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+    },
+	"5": {
+      "name": "Enderman",
+      "description": "",
+      "gm_notes": "",
+      "tags": {
+        "1": "Overworld"
+      },
+      "lua_script": "local canYouAddCodeHere = true",
+      "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Enderman.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+    }
+  }
+}

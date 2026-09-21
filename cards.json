@@ -9,7 +9,7 @@
         "1": "Overworld"
       },
       "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Creeper.png",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png"
     },
     "2": {
       "name": "Zombie",
@@ -20,7 +20,7 @@
         "2": "Undead"
       },
       "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Zombie.png",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png"
     },
 	"3": {
       "name": "Spider",
@@ -30,7 +30,7 @@
         "1": "Overworld"
       },
       "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Spider.png",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png"
     },
 	"4": {
       "name": "Skeleton",
@@ -41,7 +41,7 @@
         "2": "Undead"
       },
       "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Skeleton.png",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png"
     },
 	"5": {
       "name": "Enderman",
@@ -52,7 +52,7 @@
       },
       "lua_script": "local canYouAddCodeHere = true",
       "face": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/Enderman.png",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/ImporterTutorial/refs/heads/main/cardback.png"
     }
   }
 }
